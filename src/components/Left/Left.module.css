@@ -1,0 +1,13 @@
+.left {
+    background-color: turquoise;
+    height: 80%;
+    width: 45%;
+    margin:0;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.left p {
+    display: inline;
+    margin-right: 10px;
+}
